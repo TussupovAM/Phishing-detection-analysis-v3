@@ -1,11 +1,6 @@
 # Phishing Detection Analysis
 
-[![CI](https://github.com/YOUR_USERNAME/phishing-detection-analysis/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/phishing-detection-analysis/actions/workflows/tests.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Python](https://img.shields.io/badge/python-3.10%20|%203.11%20|%203.12-blue)
-
-Small research-oriented Python module developed for **Assignment 3 (Software Development and
-Integration)**. It supports the dissertation *"Comparative Analysis of Traditional Machine Learning
+Small research-oriented Python module. It supports the dissertation *"Comparative Analysis of Traditional Machine Learning
 and Deep Learning Approaches for Phishing Detection in Remote Work Environments"*.
 
 The module extracts lexical features from URLs and trains a lightweight, interpretable Logistic
